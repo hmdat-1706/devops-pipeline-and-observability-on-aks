@@ -1,0 +1,8 @@
+# Chặn file thực thi Minikube
+minikube-linux-amd64
+minikube
+
+# Chặn các file rác hệ thống và log
+*.log
+.DS_Store
+node_modules/
